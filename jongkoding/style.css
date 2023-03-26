@@ -1,0 +1,41 @@
+#tabel-siswa {
+    border-collapse:collapse;
+    background-image:url(/jongkoding/tokyo.jpg);
+    background-size:cover;
+    background-repeat:no-repeat;
+    background-position:-200px 0;
+    border:1px solid white;
+    margin:auto;
+  
+
+    
+  
+    
+}
+
+.link{
+    color:red;
+    text-decoration:none;
+}
+
+body{
+    font-family:Arial,Helvetica, sans-serif;
+    background:green;
+    color:white;
+    
+}
+
+#tabel-siswa h3{
+    font-size:32px;
+    
+}
+
+#tabel-siswa td{
+    padding:20px;
+}
+
+/* table{
+    background-image:url(tokyo.jpg);
+    background-size:cover;
+    background-position:-200px 0;
+} */
